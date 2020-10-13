@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.1",
+    "@types/node-fetch": "^2.5.5",
+    "@types/progress": "^2.0.3",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.3",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "progress": "^2.0.3"
+  }
+}

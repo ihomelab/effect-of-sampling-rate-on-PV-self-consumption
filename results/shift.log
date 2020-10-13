@@ -1,0 +1,1440 @@
+Shifting at 1T
+house_16_1T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+48 usages will be shifted (naive)
+233 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 245 times in 364 days
+101 usages will be shifted (naive)
+182 usages will be shifted (educated_forward)
+
+house_17_1T.hdf
+Appliance tumble_dryer_power used 23 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 204 times in 364 days
+88 usages will be shifted (naive)
+182 usages will be shifted (educated_forward)
+
+house_5_1T.hdf
+Appliance dishwasher_power used 237 times in 364 days
+150 usages will be shifted (naive)
+197 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 408 times in 364 days
+69 usages will be shifted (naive)
+138 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 453 times in 364 days
+148 usages will be shifted (naive)
+207 usages will be shifted (educated_forward)
+
+house_4_1T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_9_1T.hdf
+Appliance dishwasher_power used 207 times in 364 days
+116 usages will be shifted (naive)
+194 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 192 times in 364 days
+67 usages will be shifted (naive)
+131 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 174 times in 364 days
+67 usages will be shifted (naive)
+147 usages will be shifted (educated_forward)
+
+house_10_1T.hdf
+Appliance dishwasher_power used 261 times in 364 days
+52 usages will be shifted (naive)
+238 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 383 times in 364 days
+101 usages will be shifted (naive)
+315 usages will be shifted (educated_forward)
+
+house_15_1T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 30 times in 364 days
+4 usages will be shifted (naive)
+24 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 124 times in 364 days
+62 usages will be shifted (naive)
+112 usages will be shifted (educated_forward)
+
+house_6_1T.hdf
+Appliance dishwasher_power used 59 times in 364 days
+25 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 69 times in 364 days
+44 usages will be shifted (naive)
+64 usages will be shifted (educated_forward)
+
+house_19_1T.hdf
+Appliance washing_machine_power used 121 times in 364 days
+52 usages will be shifted (naive)
+109 usages will be shifted (educated_forward)
+
+house_13_1T.hdf
+Appliance dishwasher_power used 133 times in 364 days
+60 usages will be shifted (naive)
+130 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 328 times in 364 days
+161 usages will be shifted (naive)
+253 usages will be shifted (educated_forward)
+
+house_8_1T.hdf
+Appliance tumble_dryer_power used 65 times in 364 days
+63 usages will be shifted (naive)
+62 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 234 times in 364 days
+226 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+
+house_7_1T.hdf
+Appliance dishwasher_power used 380 times in 364 days
+128 usages will be shifted (naive)
+343 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 349 times in 364 days
+63 usages will be shifted (naive)
+199 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 592 times in 364 days
+234 usages will be shifted (naive)
+416 usages will be shifted (educated_forward)
+
+house_18_1T.hdf
+Appliance dishwasher_power used 117 times in 364 days
+15 usages will be shifted (naive)
+115 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+18 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+74 usages will be shifted (naive)
+87 usages will be shifted (educated_forward)
+
+house_1_1T.hdf
+Appliance dishwasher_power used 94 times in 364 days
+62 usages will be shifted (naive)
+89 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 59 times in 364 days
+15 usages will be shifted (naive)
+44 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 277 times in 364 days
+160 usages will be shifted (naive)
+210 usages will be shifted (educated_forward)
+
+house_2_1T.hdf
+Appliance dishwasher_power used 341 times in 364 days
+73 usages will be shifted (naive)
+289 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 253 times in 364 days
+92 usages will be shifted (naive)
+200 usages will be shifted (educated_forward)
+
+house_20_1T.hdf
+Appliance dishwasher_power used 105 times in 364 days
+37 usages will be shifted (naive)
+101 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 154 times in 364 days
+75 usages will be shifted (naive)
+115 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 136 times in 364 days
+89 usages will be shifted (naive)
+120 usages will be shifted (educated_forward)
+
+Shifting at 2T
+house_17_2T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 206 times in 364 days
+88 usages will be shifted (naive)
+178 usages will be shifted (educated_forward)
+
+house_13_2T.hdf
+Appliance dishwasher_power used 144 times in 364 days
+65 usages will be shifted (naive)
+137 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 322 times in 364 days
+151 usages will be shifted (naive)
+223 usages will be shifted (educated_forward)
+
+house_20_2T.hdf
+Appliance dishwasher_power used 107 times in 364 days
+39 usages will be shifted (naive)
+101 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 155 times in 364 days
+74 usages will be shifted (naive)
+111 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 136 times in 364 days
+89 usages will be shifted (naive)
+119 usages will be shifted (educated_forward)
+
+house_18_2T.hdf
+Appliance dishwasher_power used 117 times in 364 days
+15 usages will be shifted (naive)
+116 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+18 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+75 usages will be shifted (naive)
+87 usages will be shifted (educated_forward)
+
+house_10_2T.hdf
+Appliance dishwasher_power used 269 times in 364 days
+54 usages will be shifted (naive)
+241 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 385 times in 364 days
+99 usages will be shifted (naive)
+313 usages will be shifted (educated_forward)
+
+house_16_2T.hdf
+Appliance dishwasher_power used 249 times in 364 days
+48 usages will be shifted (naive)
+230 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 246 times in 364 days
+100 usages will be shifted (naive)
+181 usages will be shifted (educated_forward)
+
+house_9_2T.hdf
+Appliance dishwasher_power used 210 times in 364 days
+117 usages will be shifted (naive)
+196 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 192 times in 364 days
+67 usages will be shifted (naive)
+132 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 174 times in 364 days
+67 usages will be shifted (naive)
+146 usages will be shifted (educated_forward)
+
+house_8_2T.hdf
+Appliance tumble_dryer_power used 71 times in 364 days
+63 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 234 times in 364 days
+226 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+
+house_15_2T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+3 usages will be shifted (naive)
+25 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 123 times in 364 days
+63 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+
+house_2_2T.hdf
+Appliance dishwasher_power used 344 times in 364 days
+72 usages will be shifted (naive)
+292 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 253 times in 364 days
+91 usages will be shifted (naive)
+198 usages will be shifted (educated_forward)
+
+house_7_2T.hdf
+Appliance dishwasher_power used 381 times in 364 days
+128 usages will be shifted (naive)
+340 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 348 times in 364 days
+63 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 589 times in 364 days
+234 usages will be shifted (naive)
+413 usages will be shifted (educated_forward)
+
+house_19_2T.hdf
+Appliance washing_machine_power used 121 times in 364 days
+53 usages will be shifted (naive)
+107 usages will be shifted (educated_forward)
+
+house_4_2T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_6_2T.hdf
+Appliance dishwasher_power used 60 times in 364 days
+25 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+65 usages will be shifted (educated_forward)
+
+house_1_2T.hdf
+Appliance dishwasher_power used 94 times in 364 days
+62 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 59 times in 364 days
+15 usages will be shifted (naive)
+42 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 275 times in 364 days
+159 usages will be shifted (naive)
+203 usages will be shifted (educated_forward)
+
+house_5_2T.hdf
+Appliance dishwasher_power used 246 times in 364 days
+153 usages will be shifted (naive)
+194 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 413 times in 364 days
+72 usages will be shifted (naive)
+130 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 439 times in 364 days
+146 usages will be shifted (naive)
+184 usages will be shifted (educated_forward)
+
+Shifting at 3T
+house_1_3T.hdf
+Appliance dishwasher_power used 95 times in 364 days
+63 usages will be shifted (naive)
+87 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 58 times in 364 days
+15 usages will be shifted (naive)
+37 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 277 times in 364 days
+158 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+
+house_7_3T.hdf
+Appliance dishwasher_power used 382 times in 364 days
+128 usages will be shifted (naive)
+340 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 347 times in 364 days
+63 usages will be shifted (naive)
+194 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 589 times in 364 days
+233 usages will be shifted (naive)
+408 usages will be shifted (educated_forward)
+
+house_19_3T.hdf
+Appliance washing_machine_power used 114 times in 364 days
+48 usages will be shifted (naive)
+98 usages will be shifted (educated_forward)
+
+house_8_3T.hdf
+Appliance tumble_dryer_power used 71 times in 364 days
+63 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 234 times in 364 days
+226 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+
+house_4_3T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_2_3T.hdf
+Appliance dishwasher_power used 344 times in 364 days
+72 usages will be shifted (naive)
+290 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+89 usages will be shifted (naive)
+197 usages will be shifted (educated_forward)
+
+house_6_3T.hdf
+Appliance dishwasher_power used 61 times in 364 days
+26 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+65 usages will be shifted (educated_forward)
+
+house_20_3T.hdf
+Appliance dishwasher_power used 105 times in 364 days
+37 usages will be shifted (naive)
+98 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 156 times in 364 days
+74 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 135 times in 364 days
+88 usages will be shifted (naive)
+119 usages will be shifted (educated_forward)
+
+house_9_3T.hdf
+Appliance dishwasher_power used 211 times in 364 days
+117 usages will be shifted (naive)
+196 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 197 times in 364 days
+67 usages will be shifted (naive)
+130 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 174 times in 364 days
+67 usages will be shifted (naive)
+145 usages will be shifted (educated_forward)
+
+house_15_3T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+4 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 123 times in 364 days
+62 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+
+house_10_3T.hdf
+Appliance dishwasher_power used 270 times in 364 days
+54 usages will be shifted (naive)
+238 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 385 times in 364 days
+99 usages will be shifted (naive)
+309 usages will be shifted (educated_forward)
+
+house_13_3T.hdf
+Appliance dishwasher_power used 144 times in 364 days
+65 usages will be shifted (naive)
+136 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 323 times in 364 days
+152 usages will be shifted (naive)
+224 usages will be shifted (educated_forward)
+
+house_18_3T.hdf
+Appliance dishwasher_power used 117 times in 364 days
+15 usages will be shifted (naive)
+116 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+18 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+75 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+
+house_5_3T.hdf
+Appliance dishwasher_power used 246 times in 364 days
+154 usages will be shifted (naive)
+194 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 411 times in 364 days
+72 usages will be shifted (naive)
+125 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 441 times in 364 days
+143 usages will be shifted (naive)
+179 usages will be shifted (educated_forward)
+
+house_16_3T.hdf
+Appliance dishwasher_power used 249 times in 364 days
+48 usages will be shifted (naive)
+230 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 247 times in 364 days
+99 usages will be shifted (naive)
+181 usages will be shifted (educated_forward)
+
+house_17_3T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 205 times in 364 days
+87 usages will be shifted (naive)
+173 usages will be shifted (educated_forward)
+
+Shifting at 4T
+house_2_4T.hdf
+Appliance dishwasher_power used 344 times in 364 days
+72 usages will be shifted (naive)
+288 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+89 usages will be shifted (naive)
+197 usages will be shifted (educated_forward)
+
+house_7_4T.hdf
+Appliance dishwasher_power used 382 times in 364 days
+128 usages will be shifted (naive)
+340 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 351 times in 364 days
+63 usages will be shifted (naive)
+202 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 591 times in 364 days
+234 usages will be shifted (naive)
+407 usages will be shifted (educated_forward)
+
+house_9_4T.hdf
+Appliance dishwasher_power used 212 times in 364 days
+117 usages will be shifted (naive)
+197 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 196 times in 364 days
+67 usages will be shifted (naive)
+126 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 176 times in 364 days
+68 usages will be shifted (naive)
+146 usages will be shifted (educated_forward)
+
+house_4_4T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_17_4T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 206 times in 364 days
+88 usages will be shifted (naive)
+174 usages will be shifted (educated_forward)
+
+house_5_4T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+155 usages will be shifted (naive)
+193 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 415 times in 364 days
+72 usages will be shifted (naive)
+124 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 436 times in 364 days
+145 usages will be shifted (naive)
+174 usages will be shifted (educated_forward)
+
+house_15_4T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+3 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 124 times in 364 days
+63 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+
+house_18_4T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+117 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+17 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+75 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+
+house_10_4T.hdf
+Appliance dishwasher_power used 273 times in 364 days
+55 usages will be shifted (naive)
+239 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 386 times in 364 days
+98 usages will be shifted (naive)
+309 usages will be shifted (educated_forward)
+
+house_13_4T.hdf
+Appliance dishwasher_power used 144 times in 364 days
+65 usages will be shifted (naive)
+135 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 319 times in 364 days
+150 usages will be shifted (naive)
+218 usages will be shifted (educated_forward)
+
+house_1_4T.hdf
+Appliance dishwasher_power used 95 times in 364 days
+62 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 58 times in 364 days
+15 usages will be shifted (naive)
+37 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 275 times in 364 days
+157 usages will be shifted (naive)
+189 usages will be shifted (educated_forward)
+
+house_19_4T.hdf
+Appliance washing_machine_power used 98 times in 364 days
+39 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+
+house_6_4T.hdf
+Appliance dishwasher_power used 61 times in 364 days
+26 usages will be shifted (naive)
+57 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+64 usages will be shifted (educated_forward)
+
+house_20_4T.hdf
+Appliance dishwasher_power used 107 times in 364 days
+39 usages will be shifted (naive)
+101 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 155 times in 364 days
+74 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 136 times in 364 days
+88 usages will be shifted (naive)
+118 usages will be shifted (educated_forward)
+
+house_8_4T.hdf
+Appliance tumble_dryer_power used 73 times in 364 days
+63 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 235 times in 364 days
+227 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+
+house_16_4T.hdf
+Appliance dishwasher_power used 247 times in 364 days
+47 usages will be shifted (naive)
+227 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 246 times in 364 days
+99 usages will be shifted (naive)
+179 usages will be shifted (educated_forward)
+
+Shifting at 5T
+house_15_5T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+3 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 124 times in 364 days
+62 usages will be shifted (naive)
+109 usages will be shifted (educated_forward)
+
+house_4_5T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_13_5T.hdf
+Appliance dishwasher_power used 144 times in 364 days
+65 usages will be shifted (naive)
+135 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 319 times in 364 days
+151 usages will be shifted (naive)
+220 usages will be shifted (educated_forward)
+
+house_5_5T.hdf
+Appliance dishwasher_power used 246 times in 364 days
+154 usages will be shifted (naive)
+192 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 417 times in 364 days
+72 usages will be shifted (naive)
+121 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 436 times in 364 days
+143 usages will be shifted (naive)
+175 usages will be shifted (educated_forward)
+
+house_9_5T.hdf
+Appliance dishwasher_power used 210 times in 364 days
+116 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 198 times in 364 days
+67 usages will be shifted (naive)
+124 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 175 times in 364 days
+68 usages will be shifted (naive)
+146 usages will be shifted (educated_forward)
+
+house_20_5T.hdf
+Appliance dishwasher_power used 106 times in 364 days
+37 usages will be shifted (naive)
+98 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 157 times in 364 days
+74 usages will be shifted (naive)
+108 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 136 times in 364 days
+88 usages will be shifted (naive)
+115 usages will be shifted (educated_forward)
+
+house_16_5T.hdf
+Appliance dishwasher_power used 249 times in 364 days
+48 usages will be shifted (naive)
+229 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 245 times in 364 days
+99 usages will be shifted (naive)
+177 usages will be shifted (educated_forward)
+
+house_8_5T.hdf
+Appliance tumble_dryer_power used 73 times in 364 days
+64 usages will be shifted (naive)
+62 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 236 times in 364 days
+226 usages will be shifted (naive)
+190 usages will be shifted (educated_forward)
+
+house_17_5T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 206 times in 364 days
+88 usages will be shifted (naive)
+165 usages will be shifted (educated_forward)
+
+house_2_5T.hdf
+Appliance dishwasher_power used 344 times in 364 days
+72 usages will be shifted (naive)
+286 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+88 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+
+house_6_5T.hdf
+Appliance dishwasher_power used 62 times in 364 days
+27 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+64 usages will be shifted (educated_forward)
+
+house_1_5T.hdf
+Appliance dishwasher_power used 95 times in 364 days
+63 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 59 times in 364 days
+15 usages will be shifted (naive)
+35 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 276 times in 364 days
+156 usages will be shifted (naive)
+185 usages will be shifted (educated_forward)
+
+house_10_5T.hdf
+Appliance dishwasher_power used 271 times in 364 days
+55 usages will be shifted (naive)
+232 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 388 times in 364 days
+100 usages will be shifted (naive)
+305 usages will be shifted (educated_forward)
+
+house_19_5T.hdf
+Appliance washing_machine_power used 91 times in 364 days
+38 usages will be shifted (naive)
+76 usages will be shifted (educated_forward)
+
+house_18_5T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+117 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+16 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 97 times in 364 days
+76 usages will be shifted (naive)
+85 usages will be shifted (educated_forward)
+
+house_7_5T.hdf
+Appliance dishwasher_power used 382 times in 364 days
+128 usages will be shifted (naive)
+338 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 347 times in 364 days
+63 usages will be shifted (naive)
+204 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 587 times in 364 days
+233 usages will be shifted (naive)
+405 usages will be shifted (educated_forward)
+
+Shifting at 6T
+house_9_6T.hdf
+Appliance dishwasher_power used 211 times in 364 days
+116 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 194 times in 364 days
+67 usages will be shifted (naive)
+125 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 177 times in 364 days
+68 usages will be shifted (naive)
+145 usages will be shifted (educated_forward)
+
+house_5_6T.hdf
+Appliance dishwasher_power used 245 times in 364 days
+153 usages will be shifted (naive)
+190 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 410 times in 364 days
+73 usages will be shifted (naive)
+122 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 422 times in 364 days
+145 usages will be shifted (naive)
+166 usages will be shifted (educated_forward)
+
+house_2_6T.hdf
+Appliance dishwasher_power used 344 times in 364 days
+72 usages will be shifted (naive)
+286 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+88 usages will be shifted (naive)
+194 usages will be shifted (educated_forward)
+
+house_4_6T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_7_6T.hdf
+Appliance dishwasher_power used 382 times in 364 days
+129 usages will be shifted (naive)
+337 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 352 times in 364 days
+63 usages will be shifted (naive)
+200 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 587 times in 364 days
+237 usages will be shifted (naive)
+406 usages will be shifted (educated_forward)
+
+house_1_6T.hdf
+Appliance dishwasher_power used 94 times in 364 days
+62 usages will be shifted (naive)
+85 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 58 times in 364 days
+16 usages will be shifted (naive)
+34 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 273 times in 364 days
+157 usages will be shifted (naive)
+175 usages will be shifted (educated_forward)
+
+house_10_6T.hdf
+Appliance dishwasher_power used 273 times in 364 days
+55 usages will be shifted (naive)
+229 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 385 times in 364 days
+98 usages will be shifted (naive)
+301 usages will be shifted (educated_forward)
+
+house_8_6T.hdf
+Appliance tumble_dryer_power used 73 times in 364 days
+63 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 234 times in 364 days
+226 usages will be shifted (naive)
+189 usages will be shifted (educated_forward)
+
+house_20_6T.hdf
+Appliance dishwasher_power used 93 times in 364 days
+34 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 159 times in 364 days
+73 usages will be shifted (naive)
+106 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 135 times in 364 days
+88 usages will be shifted (naive)
+113 usages will be shifted (educated_forward)
+
+house_6_6T.hdf
+Appliance dishwasher_power used 61 times in 364 days
+26 usages will be shifted (naive)
+57 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+64 usages will be shifted (educated_forward)
+
+house_18_6T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+117 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+6 usages will be shifted (naive)
+17 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+73 usages will be shifted (naive)
+82 usages will be shifted (educated_forward)
+
+house_17_6T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 205 times in 364 days
+87 usages will be shifted (naive)
+162 usages will be shifted (educated_forward)
+
+house_19_6T.hdf
+Appliance washing_machine_power used 84 times in 364 days
+35 usages will be shifted (naive)
+73 usages will be shifted (educated_forward)
+
+house_16_6T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+47 usages will be shifted (naive)
+228 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 246 times in 364 days
+99 usages will be shifted (naive)
+175 usages will be shifted (educated_forward)
+
+house_13_6T.hdf
+Appliance dishwasher_power used 145 times in 364 days
+66 usages will be shifted (naive)
+135 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 322 times in 364 days
+149 usages will be shifted (naive)
+217 usages will be shifted (educated_forward)
+
+house_15_6T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+3 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 122 times in 364 days
+61 usages will be shifted (naive)
+107 usages will be shifted (educated_forward)
+
+Shifting at 7T
+house_10_7T.hdf
+Appliance dishwasher_power used 271 times in 364 days
+55 usages will be shifted (naive)
+224 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 390 times in 364 days
+100 usages will be shifted (naive)
+302 usages will be shifted (educated_forward)
+
+house_16_7T.hdf
+Appliance dishwasher_power used 246 times in 364 days
+47 usages will be shifted (naive)
+226 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 246 times in 364 days
+97 usages will be shifted (naive)
+175 usages will be shifted (educated_forward)
+
+house_1_7T.hdf
+Appliance dishwasher_power used 95 times in 364 days
+61 usages will be shifted (naive)
+84 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 56 times in 364 days
+14 usages will be shifted (naive)
+35 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 273 times in 364 days
+158 usages will be shifted (naive)
+174 usages will be shifted (educated_forward)
+
+house_5_7T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+156 usages will be shifted (naive)
+192 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 413 times in 364 days
+69 usages will be shifted (naive)
+122 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 427 times in 364 days
+141 usages will be shifted (naive)
+169 usages will be shifted (educated_forward)
+
+house_18_7T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+116 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 21 times in 364 days
+5 usages will be shifted (naive)
+16 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+73 usages will be shifted (naive)
+83 usages will be shifted (educated_forward)
+
+house_8_7T.hdf
+Appliance tumble_dryer_power used 74 times in 364 days
+64 usages will be shifted (naive)
+62 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 232 times in 364 days
+224 usages will be shifted (naive)
+186 usages will be shifted (educated_forward)
+
+house_4_7T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+19 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_6_7T.hdf
+Appliance dishwasher_power used 62 times in 364 days
+27 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+42 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+
+house_20_7T.hdf
+Appliance dishwasher_power used 97 times in 364 days
+32 usages will be shifted (naive)
+91 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 158 times in 364 days
+75 usages will be shifted (naive)
+108 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 137 times in 364 days
+88 usages will be shifted (naive)
+112 usages will be shifted (educated_forward)
+
+house_13_7T.hdf
+Appliance dishwasher_power used 147 times in 364 days
+66 usages will be shifted (naive)
+136 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 319 times in 364 days
+150 usages will be shifted (naive)
+214 usages will be shifted (educated_forward)
+
+house_15_7T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+4 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 124 times in 364 days
+63 usages will be shifted (naive)
+106 usages will be shifted (educated_forward)
+
+house_2_7T.hdf
+Appliance dishwasher_power used 347 times in 364 days
+72 usages will be shifted (naive)
+287 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+88 usages will be shifted (naive)
+192 usages will be shifted (educated_forward)
+
+house_17_7T.hdf
+Appliance tumble_dryer_power used 25 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 205 times in 364 days
+84 usages will be shifted (naive)
+156 usages will be shifted (educated_forward)
+
+house_7_7T.hdf
+Appliance dishwasher_power used 386 times in 364 days
+131 usages will be shifted (naive)
+340 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 352 times in 364 days
+61 usages will be shifted (naive)
+201 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 592 times in 364 days
+234 usages will be shifted (naive)
+398 usages will be shifted (educated_forward)
+
+house_19_7T.hdf
+Appliance washing_machine_power used 74 times in 364 days
+27 usages will be shifted (naive)
+63 usages will be shifted (educated_forward)
+
+house_9_7T.hdf
+Appliance dishwasher_power used 214 times in 364 days
+117 usages will be shifted (naive)
+196 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 202 times in 364 days
+68 usages will be shifted (naive)
+125 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 178 times in 364 days
+68 usages will be shifted (naive)
+143 usages will be shifted (educated_forward)
+
+Shifting at 8T
+house_7_8T.hdf
+Appliance dishwasher_power used 385 times in 364 days
+131 usages will be shifted (naive)
+334 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 357 times in 364 days
+63 usages will be shifted (naive)
+200 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 594 times in 364 days
+235 usages will be shifted (naive)
+398 usages will be shifted (educated_forward)
+
+house_8_8T.hdf
+Appliance tumble_dryer_power used 72 times in 364 days
+62 usages will be shifted (naive)
+60 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 235 times in 364 days
+225 usages will be shifted (naive)
+187 usages will be shifted (educated_forward)
+
+house_4_8T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+19 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_16_8T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+48 usages will be shifted (naive)
+227 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 246 times in 364 days
+99 usages will be shifted (naive)
+176 usages will be shifted (educated_forward)
+
+house_19_8T.hdf
+Appliance washing_machine_power used 71 times in 364 days
+28 usages will be shifted (naive)
+59 usages will be shifted (educated_forward)
+
+house_1_8T.hdf
+Appliance dishwasher_power used 94 times in 364 days
+62 usages will be shifted (naive)
+86 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 55 times in 364 days
+12 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 273 times in 364 days
+157 usages will be shifted (naive)
+166 usages will be shifted (educated_forward)
+
+house_6_8T.hdf
+Appliance dishwasher_power used 62 times in 364 days
+26 usages will be shifted (naive)
+55 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+42 usages will be shifted (naive)
+60 usages will be shifted (educated_forward)
+
+house_10_8T.hdf
+Appliance dishwasher_power used 273 times in 364 days
+54 usages will be shifted (naive)
+227 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 388 times in 364 days
+99 usages will be shifted (naive)
+298 usages will be shifted (educated_forward)
+
+house_18_8T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+115 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+16 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+73 usages will be shifted (naive)
+83 usages will be shifted (educated_forward)
+
+house_15_8T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 31 times in 364 days
+3 usages will be shifted (naive)
+25 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 123 times in 364 days
+62 usages will be shifted (naive)
+105 usages will be shifted (educated_forward)
+
+house_13_8T.hdf
+Appliance dishwasher_power used 147 times in 364 days
+66 usages will be shifted (naive)
+136 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 320 times in 364 days
+153 usages will be shifted (naive)
+214 usages will be shifted (educated_forward)
+
+house_2_8T.hdf
+Appliance dishwasher_power used 346 times in 364 days
+72 usages will be shifted (naive)
+287 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 251 times in 364 days
+89 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+
+house_20_8T.hdf
+Appliance dishwasher_power used 84 times in 364 days
+29 usages will be shifted (naive)
+78 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 159 times in 364 days
+76 usages will be shifted (naive)
+108 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 136 times in 364 days
+87 usages will be shifted (naive)
+113 usages will be shifted (educated_forward)
+
+house_17_8T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 204 times in 364 days
+86 usages will be shifted (naive)
+159 usages will be shifted (educated_forward)
+
+house_9_8T.hdf
+Appliance dishwasher_power used 211 times in 364 days
+116 usages will be shifted (naive)
+193 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 202 times in 364 days
+67 usages will be shifted (naive)
+122 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 179 times in 364 days
+68 usages will be shifted (naive)
+145 usages will be shifted (educated_forward)
+
+house_5_8T.hdf
+Appliance dishwasher_power used 246 times in 364 days
+155 usages will be shifted (naive)
+192 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 416 times in 364 days
+73 usages will be shifted (naive)
+117 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 418 times in 364 days
+142 usages will be shifted (naive)
+158 usages will be shifted (educated_forward)
+
+Shifting at 9T
+house_2_9T.hdf
+Appliance dishwasher_power used 347 times in 364 days
+72 usages will be shifted (naive)
+282 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 250 times in 364 days
+89 usages will be shifted (naive)
+190 usages will be shifted (educated_forward)
+
+house_8_9T.hdf
+Appliance tumble_dryer_power used 73 times in 364 days
+63 usages will be shifted (naive)
+61 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 233 times in 364 days
+225 usages will be shifted (naive)
+187 usages will be shifted (educated_forward)
+
+house_9_9T.hdf
+Appliance dishwasher_power used 214 times in 364 days
+117 usages will be shifted (naive)
+196 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 196 times in 364 days
+65 usages will be shifted (naive)
+120 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 178 times in 364 days
+68 usages will be shifted (naive)
+142 usages will be shifted (educated_forward)
+
+house_10_9T.hdf
+Appliance dishwasher_power used 273 times in 364 days
+55 usages will be shifted (naive)
+225 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 391 times in 364 days
+99 usages will be shifted (naive)
+295 usages will be shifted (educated_forward)
+
+house_20_9T.hdf
+Appliance dishwasher_power used 104 times in 364 days
+35 usages will be shifted (naive)
+97 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 157 times in 364 days
+75 usages will be shifted (naive)
+107 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 137 times in 364 days
+88 usages will be shifted (naive)
+110 usages will be shifted (educated_forward)
+
+house_18_9T.hdf
+Appliance dishwasher_power used 118 times in 364 days
+15 usages will be shifted (naive)
+114 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 20 times in 364 days
+5 usages will be shifted (naive)
+16 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+74 usages will be shifted (naive)
+83 usages will be shifted (educated_forward)
+
+house_5_9T.hdf
+Appliance dishwasher_power used 245 times in 364 days
+154 usages will be shifted (naive)
+190 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 414 times in 364 days
+71 usages will be shifted (naive)
+119 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 409 times in 364 days
+145 usages will be shifted (naive)
+153 usages will be shifted (educated_forward)
+
+house_1_9T.hdf
+Appliance dishwasher_power used 96 times in 364 days
+63 usages will be shifted (naive)
+84 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 54 times in 364 days
+13 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 275 times in 364 days
+156 usages will be shifted (naive)
+161 usages will be shifted (educated_forward)
+
+house_19_9T.hdf
+Appliance washing_machine_power used 63 times in 364 days
+24 usages will be shifted (naive)
+52 usages will be shifted (educated_forward)
+
+house_17_9T.hdf
+Appliance tumble_dryer_power used 23 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 203 times in 364 days
+84 usages will be shifted (naive)
+149 usages will be shifted (educated_forward)
+
+house_13_9T.hdf
+Appliance dishwasher_power used 147 times in 364 days
+66 usages will be shifted (naive)
+134 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 317 times in 364 days
+147 usages will be shifted (naive)
+210 usages will be shifted (educated_forward)
+
+house_4_9T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_15_9T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+10 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 30 times in 364 days
+2 usages will be shifted (naive)
+25 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 124 times in 364 days
+62 usages will be shifted (naive)
+104 usages will be shifted (educated_forward)
+
+house_7_9T.hdf
+Appliance dishwasher_power used 385 times in 364 days
+130 usages will be shifted (naive)
+333 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 353 times in 364 days
+62 usages will be shifted (naive)
+203 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 590 times in 364 days
+231 usages will be shifted (naive)
+390 usages will be shifted (educated_forward)
+
+house_6_9T.hdf
+Appliance dishwasher_power used 62 times in 364 days
+26 usages will be shifted (naive)
+56 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 71 times in 364 days
+43 usages will be shifted (naive)
+60 usages will be shifted (educated_forward)
+
+house_16_9T.hdf
+Appliance dishwasher_power used 247 times in 364 days
+47 usages will be shifted (naive)
+225 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 248 times in 364 days
+98 usages will be shifted (naive)
+174 usages will be shifted (educated_forward)
+
+Shifting at 10T
+house_8_10T.hdf
+Appliance tumble_dryer_power used 74 times in 364 days
+64 usages will be shifted (naive)
+62 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 236 times in 364 days
+225 usages will be shifted (naive)
+187 usages will be shifted (educated_forward)
+
+house_16_10T.hdf
+Appliance dishwasher_power used 247 times in 364 days
+48 usages will be shifted (naive)
+225 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 248 times in 364 days
+99 usages will be shifted (naive)
+173 usages will be shifted (educated_forward)
+
+house_5_10T.hdf
+Appliance dishwasher_power used 248 times in 364 days
+156 usages will be shifted (naive)
+191 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 413 times in 364 days
+74 usages will be shifted (naive)
+113 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 416 times in 364 days
+143 usages will be shifted (naive)
+150 usages will be shifted (educated_forward)
+
+house_7_10T.hdf
+Appliance dishwasher_power used 388 times in 364 days
+132 usages will be shifted (naive)
+331 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 353 times in 364 days
+63 usages will be shifted (naive)
+198 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 586 times in 364 days
+235 usages will be shifted (naive)
+394 usages will be shifted (educated_forward)
+
+house_13_10T.hdf
+Appliance dishwasher_power used 147 times in 364 days
+66 usages will be shifted (naive)
+134 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 319 times in 364 days
+155 usages will be shifted (naive)
+214 usages will be shifted (educated_forward)
+
+house_6_10T.hdf
+Appliance dishwasher_power used 62 times in 364 days
+27 usages will be shifted (naive)
+57 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 70 times in 364 days
+43 usages will be shifted (naive)
+58 usages will be shifted (educated_forward)
+
+house_17_10T.hdf
+Appliance tumble_dryer_power used 24 times in 364 days
+5 usages will be shifted (naive)
+19 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 205 times in 364 days
+87 usages will be shifted (naive)
+154 usages will be shifted (educated_forward)
+
+house_1_10T.hdf
+Appliance dishwasher_power used 94 times in 364 days
+62 usages will be shifted (naive)
+79 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 44 times in 364 days
+9 usages will be shifted (naive)
+21 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 274 times in 364 days
+155 usages will be shifted (naive)
+156 usages will be shifted (educated_forward)
+
+house_10_10T.hdf
+Appliance dishwasher_power used 275 times in 364 days
+55 usages will be shifted (naive)
+219 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 389 times in 364 days
+102 usages will be shifted (naive)
+297 usages will be shifted (educated_forward)
+
+house_15_10T.hdf
+Appliance dishwasher_power used 11 times in 364 days
+3 usages will be shifted (naive)
+9 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 30 times in 364 days
+3 usages will be shifted (naive)
+26 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 123 times in 364 days
+61 usages will be shifted (naive)
+101 usages will be shifted (educated_forward)
+
+house_18_10T.hdf
+Appliance dishwasher_power used 119 times in 364 days
+15 usages will be shifted (naive)
+115 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 18 times in 364 days
+4 usages will be shifted (naive)
+14 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 95 times in 364 days
+74 usages will be shifted (naive)
+82 usages will be shifted (educated_forward)
+
+house_9_10T.hdf
+Appliance dishwasher_power used 212 times in 364 days
+117 usages will be shifted (naive)
+195 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 199 times in 364 days
+68 usages will be shifted (naive)
+122 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 180 times in 364 days
+68 usages will be shifted (naive)
+142 usages will be shifted (educated_forward)
+
+house_19_10T.hdf
+Appliance washing_machine_power used 60 times in 364 days
+28 usages will be shifted (naive)
+48 usages will be shifted (educated_forward)
+
+house_2_10T.hdf
+Appliance dishwasher_power used 345 times in 364 days
+72 usages will be shifted (naive)
+279 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 249 times in 364 days
+88 usages will be shifted (naive)
+184 usages will be shifted (educated_forward)
+
+house_4_10T.hdf
+Appliance washing_machine_power used 29 times in 364 days
+20 usages will be shifted (naive)
+28 usages will be shifted (educated_forward)
+
+house_20_10T.hdf
+Appliance dishwasher_power used 89 times in 364 days
+31 usages will be shifted (naive)
+82 usages will be shifted (educated_forward)
+Appliance tumble_dryer_power used 159 times in 364 days
+74 usages will be shifted (naive)
+104 usages will be shifted (educated_forward)
+Appliance washing_machine_power used 138 times in 364 days
+89 usages will be shifted (naive)
+106 usages will be shifted (educated_forward)
+

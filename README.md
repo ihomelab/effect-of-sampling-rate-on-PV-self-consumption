@@ -1,6 +1,6 @@
-# Effect of sample rate on PV self-consumption in load shifting simulations
+# Effect of Sampling Rate on Photovoltaic Self-Consumption in Load Shifting Simulations
 
-This repository contains the code used in the experiments for our paper "Effect of sample rate on PV self-consumption in load shifting simulations". The paper gives a detailed overview of our methodology, so we recommend reading that first. This readme explains the practical steps to reproduce our results.
+This repository contains the code used in the experiments for our paper "Effect of Sampling Rate on Photovoltaic Self-Consumption in Load Shifting Simulations". The paper gives a detailed overview of our methodology, so we recommend reading that first. This readme explains the practical steps to reproduce our results.
 
 ## Install development tools
 
